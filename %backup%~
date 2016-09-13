@@ -1,0 +1,51 @@
+﻿% Created 2014-03-03 Mon 02:01
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{soul}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{latexsym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\providecommand{\alert}[1]{\textbf{#1}}
+
+\title{Cirqle}
+\author{Anton Lejon}
+\date{\today}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs Org-mode version 7.8.11}}
+
+\begin{document}
+
+\maketitle
+
+\setcounter{tocdepth}{3}
+\tableofcontents
+\vspace*{1cm}
+Clock summary at \textit{2014-03-03 Mon 02:01}, for week 2014-W09.
+
+
+\begin{center}
+\begin{tabular}{lr}
+ Headline                            &            Time  \\
+\hline
+ \textbf{Total time}                 &  \textbf{19:40}  \\
+\hline
+ Projekt                             &            6:41  \\
+ Möten, planering, skriva mail m.m.  &           12:59  \\
+\end{tabular}
+\end{center}
+
+
+
+\end{document}
